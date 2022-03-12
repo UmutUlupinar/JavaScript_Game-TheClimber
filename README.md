@@ -1,4 +1,4 @@
-https://github.com/UmutUlupinar/JavaScript_Game-TheClimber/blob/82af09750312ee84a3c1bfa6f044cf01b2f80bda/Index.html
+[Play Here!](https://UmutUlupinar.github.io/JavaScript_Game-TheClimber/)
 
 
 
