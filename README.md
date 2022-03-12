@@ -1,4 +1,4 @@
-# JavaScript_Game-TheClimber
+# UmutUlupinar.github.io/JavaScript_Game-TheClimber/
 
 
 
